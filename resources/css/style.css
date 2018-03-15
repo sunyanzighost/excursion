@@ -20,10 +20,17 @@ h2{
   font-family: Verdana;
   font-size: 42px;
   font-weight:300;
+  color:white;
 }
 
 p{
   font-family:Verdana;
   font-size:21px;
   color:Gray;
+}
+
+.footer p{
+  font-family: Verdana;
+  text-align: right;
+  font-size:21px;
 }
